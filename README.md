@@ -15,7 +15,7 @@ It includes:
 Installation
 
 ```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone [https://github.com/your-username/heart-disease-prediction.git](https://github.com/vjkumar2756/heart_disease_prediction.git)
 cd heart-disease-prediction
 pip install -r requirements.txt
 
